@@ -3,7 +3,7 @@ import "./CompC.css";
 const CompC = () => {
   return (
     <div>
-      <h1 id="tags">Component C</h1>
+      <h1 id="tags">Footer</h1>
     </div>
   );
 };
